@@ -1,0 +1,29 @@
+header{
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  
+} 
+
+img{
+    width: 250px;
+    height: 80px;
+}
+
+a{
+    justify-content: space-around;
+    color: gray;
+    text-decoration: none;
+}
+
+button{
+   width: 80px;
+   height: 80px;
+   background-color: rgb(146, 142, 142);
+   color: white;
+   border: none;
+}
+
+
+
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        
